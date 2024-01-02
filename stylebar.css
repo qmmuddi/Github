@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(184, 216, 236);
+    opacity: 0.9;
+}
+
+h1{
+    display: inline-block;
+}
+
+h2{
+    display: inline-block;
+}
+
+h2:hover{
+    color: white;
+    background-color: blue;
+}
+.row-1 ,.row-2 ,.row-3{
+    color: black;
+    margin: 10px;
+    text font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    
+}
+.row-3{
+    color:black ;
+    background-color: rgb(66, 66, 212);
+    width: 25px;
+    height: 350px;
+    text-align: center;
+    font-size: xx-large;
+    font-style:serif;
+    font-weight: bolder;
+}
+.row2, .row-3{
+    margin: 150px;
+
+}
+.row-3 , h1{
+    color: rgb(33, 33, 179);
+    
+}
+
+.row-1{
+    display: block;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 500px;
+}
+.row-2{
+    display: block;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 500px;
+    
+}
